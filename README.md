@@ -1,2 +1,3 @@
 # Hooks-in-CodeIgniter
-In code igniter hooks are the points before and after the execution where we can call some specific functions.
+In code igniter hooks are the points before and after the execution where we can call some specific functions. These functions are called hooks and points where we call hooks are called hook point. Hooks are usefull when we have to make some changes throught the application , then we can do this without hacking all the files, just adding one hook at appropriate point. We can modify the way of usual rendering in code igniter application. So hooks facilitates modification in functionality without changing the core. 
+https://interviewsortout.blogspot.com/2018/09/hooks-in-codeigniter.html
